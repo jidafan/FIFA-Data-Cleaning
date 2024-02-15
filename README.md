@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Data-Cleaning](#data-cleaning)
+* [Data Cleaning](#data-cleaning)
 * [Conclusion](#conclusion)
 
 ## Introduction
